@@ -5,7 +5,8 @@
 ### Hey stranger 👋, my name is Toluwalemi, a Software Engineer currently solving problems with Python, Django, and Flask.
 
 - 👯 I’m looking to collaborate with other developers.
-- 😊 Willing to contribute in opensource development projects.
+- 😊 Willing to contribute to open-source projects.
+- 👌 I'm also open to (remote) job offers.
 
 ## 📬 Get in touch
 
