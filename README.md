@@ -2,7 +2,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/Toluwalemi)
 ![Profile views](https://gpvc.arturio.dev/Toluwalemi)
 
-### Hey stranger 👋, my name is Toluwalemi, a Software Engineer currently solving problems with Python, Django, and Flask.
+### Hey stranger 👋, my name is Toluwalemi, a Software Engineer currently solving problems with Python.
 
 - 👯 I’m looking to collaborate with other developers.
 - 😊 Willing to contribute to open-source projects.
