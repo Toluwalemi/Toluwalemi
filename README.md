@@ -12,7 +12,6 @@
 
 - Web: [toluwalemi.com][1]
 - LinkedIn: [linkedin.com/in/Toluwalemi][2]
-- Twitter: [twitter.com/Toluwalemi][3]
 - Blog: [toluwalemi.com/blog][4]
 
 
