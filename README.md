@@ -1,6 +1,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Toluwalemi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/toluwalemioluwadare/)](https://www.linkedin.com/in/toluwalemioluwadare/)
 ![GitHub followers](https://img.shields.io/github/followers/Toluwalemi)
-![Profile views](https://gpvc.arturio.dev/Toluwalemi)
 
 ### Hey stranger 👋, my name is Toluwalemi, a Software Engineer currently solving problems with Python.
 
